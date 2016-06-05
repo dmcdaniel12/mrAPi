@@ -1,0 +1,6 @@
+{
+    "require": {
+        "marcj/php-rest-service": "*",
+        "catfan/Medoo": "^1.0"
+    }
+}
